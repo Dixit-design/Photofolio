@@ -704,7 +704,7 @@ footer {
     cursor: pointer;
     font-size: 25px;
     line-height: 48px;
-
+    width: 48px;
     /* place it at the bottom right corner */
     position: fixed;
     bottom: 30px;
