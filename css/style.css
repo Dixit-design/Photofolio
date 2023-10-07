@@ -702,9 +702,9 @@ footer {
     border-radius: 50%;
     color: #000;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 48px;
-    width: 48px;
+
     /* place it at the bottom right corner */
     position: fixed;
     bottom: 30px;
